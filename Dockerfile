@@ -1,0 +1,1 @@
+FROM arm32v7/wordpress:6-php8.2-apache
